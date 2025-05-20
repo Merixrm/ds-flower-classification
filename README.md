@@ -1,1 +1,1 @@
-# ds-flower-classification
+# This is a repository for flower classification data science project
